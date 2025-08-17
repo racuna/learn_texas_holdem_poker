@@ -1,6 +1,3 @@
-Aquí tienes un **README.md** en formato Markdown para GitHub, con la descripción, el enfoque educativo, licencia y un mini tutorial de uso:
-
-````markdown
 # 🎲 Poker Educativo en Consola (Texas Hold'em)
 
 Este proyecto es un **simulador de Texas Hold'em** para consola escrito en Python.  
